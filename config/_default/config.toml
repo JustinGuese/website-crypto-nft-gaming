@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.datafortress.cloud/website-hugo-crypto-realestate/"
+baseURL = "http://www.datafortress.cloud/website-hugo-nft-gaming/"
 title = "NFT Gaming"
 theme = "wallet"
 # post pagination
