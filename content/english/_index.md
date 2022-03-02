@@ -8,7 +8,7 @@ banner:
     label: Contact us now
     icon: fas fa-arrow-right
     button_modal_target: "#applyLoan"
-  image: images/banner/banner.png
+  image: "/images/screenshot-2022-03-02-124037.png"
 services:
   enable: true
 difference_of_us:
