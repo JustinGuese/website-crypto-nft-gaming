@@ -1,11 +1,11 @@
 ---
 banner:
   enable: true
-  title: Your partner everything around NFT Gaming!
-  subtitle: NFT Gaming is awesome, and will be really big!
+  title: Your partner for everything around NFT Gaming!
+  subtitle: Play to earn games explained, and how you can make the biggest profit
   button:
     enable: true
-    label: Contact us now
+    label: NFT games 101
     icon: fas fa-arrow-right
     button_modal_target: "#applyLoan"
   image: "/images/screenshot-2022-03-02-124037.png"
@@ -13,66 +13,48 @@ services:
   enable: true
 difference_of_us:
   enable: true
-  subtitle: Difference Of Us
-  title: What Makes Us <br> Different Form Other?
+  subtitle: Things to look out for
+  title: Playing and creating NFT games in a secure fashion
   description: |-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager peent esque urna. Ac eu fringilla intea dger egadv estas ut. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl
-
-    sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus egestas. In habitasse sagittis, convallis ut commodo amet, odio sagittis. Maecenas massa turpis duis felis, massa. Morbi feugiat.
+    As with everything money related, both creators and players of crypto games should pay attention to security - otherwise a lot of money might be lost. With our help you will avoid common pitfalls.
   item:
-  - title: Fast And Secure Process
+  - title: Secure your wallet
     icon: fas fa-shield-alt
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
-      congue sed aliquam id adipiscing auue
-  - title: 'Quick Question Answers '
+    description: This can't be stressed often enough, but it is essential to secure your crypto wallet in order to save your NFT's and assets. 
+  - title: Research the NFT game
     icon: fas fa-blender-phone
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
       congue sed aliquam id adipiscing auue '
-  - title: We Get You Your Cash Quick
+  - title: Don't spend more than you have
     icon: fas fa-money-bill-alt
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
       congue sed aliquam id adipiscing auue '
 about_ourselves:
   enable: true
   subtitle: About Ourselves
-  title: Fast Funding & A Flexible Payment
+  title: Your expert around the area of NFT gaming
   description: |-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl
-
-    sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus
+    Play to earn games are becoming more and more popular. This is opening up new possibilites to earn money in ways that have never been seen before, for both the player, as well as game producers. Do you plan on creating your own games, or just play them? Contact us to find out more.
   image: images/about-us.webp
 homepage_tab:
   enable: true
-  subtitle: Difference Of Us
-  title: Get Know The Basics Simple Pricing And Payments
+  subtitle: The most common questions
+  title: Get Know The Basics of play 2 earn games
   tablist:
-  - title: How Much Can I Recive?
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus
-      integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo\n\nturpis
-      vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non
-      semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus
-      eget. Neque, vel "
+  - title: How Much Can I earn?
+    description: "This varies widely, depending on several factors we are exploring in another article. But let us look at an example of Axie Infinity, as it is one of the most established games right now. Of course, being an early adopter to a new game might make you a lot of money, but taking Axie as a starting point gives us a good overview of how much an average person might earn. In Axie you are breeding little Axies, which are NFTs, and players earn on average 9-13$ a day (300$/month). There are other possibilities to enhance this amount, with for example being a manager, or simultaneously staking, which results in an average of 66$/day or 2000$ a month."
     image: images/payment-info.webp
   - title: How Much Does It Costs?
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus
-      integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo\n\nturpis
-      vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non
-      semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus
-      eget. Neque, vel "
+    description: "This has been one of the biggest challenges right now. As popularity of NFT games increases, and as some games are getting more popular, even simple entry level NFTs cost over a hundred dollar. One has to keep in mind though, that they can still be sold after purchase, meaning as most games are stable or even uptrending in value, you are likely to get your investment back after playing. The difficult tradeoff in here is to look for new games, where NFTs are still relatively cheap, but also to not pick a game that is crashing in value during the next days. Looking at Axie Infinity again as an example, one can expect to pay around 300$ for a starter set, which is relatively safe as Axie is quite established, but therefore a steeper entry price."
     image: images/illustration-2.png
-  - title: How Do I Repay?
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus
-      integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo\n\nturpis
-      vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non
-      semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus
-      eget. Neque, vel "
+  - title: What do I need?
+    description: "If you already own crypto the entry is quite easy. Oftentimes you can simply purchase an NFT with established coins like BNB, ETH or BTC, and start playing right away. If you do not own crypto yet, you will need to exchange your local FOREX currency (euro, dollar, ...) to crypto via a platform like Binance, and then transfer it to your wallet. Take a look at some of our articles that are explaining the process."
     image: images/illustration-1.png
 testimonials:
   enable: true
-  subtitle: Our Service Holders
-  title: Trusted By 1.2K+ Peoples
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing. egestas cursus
-    pellentesque dignissim dui, congue. Vel etiam ut
+  subtitle: Top 20 NFT Games
+  title: The biggest Play to earn games right now
+  description: Take a look at the top 20 play to earn games right now
   item:
   - image: images/testimonials/01.jpg
     name: Leslie Alexander
