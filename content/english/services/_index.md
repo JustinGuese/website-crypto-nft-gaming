@@ -1,7 +1,7 @@
 ---
-title: "Our Metaverse Services"
-section_title: "Our offer for metaverse real estate related services"
-description : "Lorem ipsum dolor sit amet, consectetur adipreiscing elit. Lacus penatibus tincidunt"
+title: "How to"
+section_title: "Get started with DeFi Gaming"
+description : "Our handy guide to the world of Crypto Gaming"
 draft: false
 date: 2020-03-11T15:40:24+06:00
 

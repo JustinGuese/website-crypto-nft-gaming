@@ -1,16 +1,16 @@
 #################### default parameters ################################
 logo = "images/logo.png"
-logo_text = "Metaverse Real Estate"
+logo_text = "NFT Gamez"
 logo_width = "160x"
 favicon = "images/favicon.png"
 # Meta data
-description = "Your partner to buy real estate in the world of crypto"
+description = "Your partner for everything crypto game related"
 author = "DataFortress.cloud"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "Infomation technologies building, Victoria Island, Lagos, Colombia."
+address = "Augsburg, Germany"
 mobile = "+1 (650) 382 0775"
-email = "metaestate@datafortress.cloud"
+email = "defigamez@datafortress.cloud"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # top hedaer
