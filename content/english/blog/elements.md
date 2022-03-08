@@ -1,215 +1,79 @@
 ---
-title: "Elements That You Can Use To Create A New Post On This Template."
-date: 2020-03-15T15:40:24+06:00
+title: "Earn Passive Income with NFTS: The Complete Guide"
+date: 2022-02-25T11:49:12+06:00 # 2020-03-14T15:40:24+06:00
 # post thumb
 images:
-  - "images/blog/post-4.jpg"
   - "images/blog/post-5.jpg"
-  - "images/blog/post-3.jpg"
 #author
-author: "John Doe"
+author: "Justin Guese"
 # description
-description: "This is meta description"
+description: "What are NFTs?"
 # Taxonomies
-categories: ["photography"]
-tags: ["photo","image"]
+categories: ["nft games", "earn", "passive", "income", "nfts:", "complete", "guide"]
+tags: ["nft games", "##", "nfts", "-", "one", "[", "buy"]
 draft: false
 ---
 
 
-#### Heading example
+Want to start playing? Explore some [further articles](/blog/), or have a look at our [getting started with Crypto games section](/services/how-do-i-get-started/).
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+# Earn Passive Income with NFTS: The Complete Guide
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Introduction to the NFTs Protocol
 
-<hr>
+What are NFTs?
 
-##### Emphasis
+NFTs are non-fungible tokens which can be either unique or non-unique. The way they work is very similar to how crypto currencies work in general. However, the thing that makes them special is that the value of a NFT token is not dependent on the supply and demand of goods or services. This is because NFTs represent ownership over assets digitized on the blockchain.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+The worth of an NFT token can vary based on what it represents and its rarity which is determined by its number of units in circulation. For example, if there are only two copies available and one is sold, then the other copy would be worth much more than it was before because only one copy remains available for purchase.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+## How to [ buy ](https://accounts.binance.com/en/register?ref=37092355) and trade with NFTs
 
-Combined emphasis with **asterisks and _underscores_**.
+NFTs are a new asset class that enables ownership of items, characters and more in video games, through block chain technology. With NFTs, gamers can [ buy ](https://accounts.binance.com/en/register?ref=37092355) and trade assets from one game to another.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Above all else, a buyer should do his/her research before making any investments. They should ask for clarification about the project in detail before investing. Secondly, they should not be pressured into an investment decision by a deadline or bonus scheme proposal because this could lead to regretting the decision later on.
 
-<hr>
+When buying and trading with NFTs, first you need to find a place where you can [ buy ](https://accounts.binance.com/en/register?ref=37092355) NFTs. There are many websites that sell these types of items, but the most popular one is OPSkins. You can also find them on sites like Steam or the Unity Asset Store. Next, you need to find a game that supports trading NFTs. This is not as difficult as it seems because there are many games that feature this type of trading system, so it should be easy to find one near you.
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+## What you need to know about NFTs before investing in them
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+NFTs are a new and rapidly expanding asset class. They are a digital representation of ownership that can be traded on the block chain without the need for an intermediary. They vary from physical assets because they don’t have any physical form and are only represented by a digital token on the block chain.
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+There are plenty of reasons to invest in a NFT now, but there are also many reasons not to. It is important to know the pros and cons before making a decision that you may regret later.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+## NFTs have many advantages over traditional assets, such as:
 
-[You can use numbers for reference-style link definitions][1]
+- Lower transaction costs
 
-Or leave it empty and use the [link text itself].
+## - Increased liquidity
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+- Less time for settlement
 
-Some text to show that the reference links can follow later.
+## - No taxes on gains or losses
 
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
+On the other hand, NFTs have some disadvantages that might not be worth investing in.
 
-<hr>
+## -The main disadvantage is that you can't resell them.
 
-##### Paragraph
+-They are one-time use assets and there is only one market for them - the game's developers.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+## -You can't trade or sell it to someone else on any other marketplace.
 
-<hr>
+This means that if you [ buy ](https://accounts.binance.com/en/register?ref=37092355) an NFT, you're stuck with it unless the game developer decides to release another version of the item with different art or stats.
 
-##### Ordered List
+## The best places to trade and store your NFTs
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+The internet has changed the way we [ buy ](https://accounts.binance.com/en/register?ref=37092355) and sell goods. With the rise of crypto currencies, it is now possible to trade tokens instead of fiat currencies. This means that you can [ buy ](https://accounts.binance.com/en/register?ref=37092355) a token with Bitcoin and sell it for Ethereum.
 
-<hr>
+There are many websites that offer trading services for crypto traders and enthusiasts. Some of these are more popular than others because they offer better service or lower fees. You should do your research before deciding which one to use because they all have different features.
 
-##### Unordered List
+## The factors that you should consider when choosing the best place to [ buy ](https://accounts.binance.com/en/register?ref=37092355) and store your NFTs are:
 
-* List item
-* List item
-* List item
-* List item
-* List item
+- The level of security and protection that the company offers.
 
-<hr>
+## - The overall usability, and ico reviews 2018 in order to ensure that it is easy to use
 
-#### Notice
+- The number of tokens available on the platform.
 
-{{< notice "note" >}}
-  This is a simple note.
-{{< /notice >}}
+Want to start playing? Explore some [further articles](/blog/), or have a look at our [getting started with Crypto games section](/services/how-do-i-get-started/).
 
-{{< notice "tip" >}}
-  This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-  This is a simple info.
-{{< /notice >}}
-
-<hr>
-
-#### Tab
-
-{{< tabs >}}
-
-  {{< tab "first" >}}
-   This is first tab
-  {{< /tab >}}
-
-  {{< tab "second" >}}
-  this is second tab
-  {{< /tab >}}
-
-  {{< tab "third" >}}
-  this is third tab
-  {{< /tab >}}
-
-{{</ tabs >}}
-
-<hr>
-
-### Collapse
-
-{{< collapse "collapse 1" >}}
-  This is a simple collapse
-{{< /collapse >}}
-
-{{< collapse "collapse 2" >}}
-  This is a simple collapse
-{{< /collapse >}}
-
-{{< collapse "collapse 3" >}}
-  This is a simple collapse
-{{< /collapse >}}
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-{{< image src="images/blog/post-4.jpg" alt="placeholder image" >}}
-{{< image src="https://dummyimage.com/1100x500/e8e8e8/16161a.jpg" alt="placeholder image" >}}
-
-<hr>
-
-##### Youtube video
-
-{{< youtube KFmA9W8i4X4 >}}
