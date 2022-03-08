@@ -7,58 +7,148 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright>
-    <lastBuildDate>Mon, 14 Feb 2022 15:40:24 +0600</lastBuildDate><atom:link href="http://www.datafortress.cloud/website-hugo-nft-gaming/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Feb 2022 07:47:46 +0600</lastBuildDate><atom:link href="http://www.datafortress.cloud/website-hugo-nft-gaming/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>investment</title>
-      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/investment/</link>
-      <pubDate>Mon, 14 Feb 2022 15:40:24 +0600</pubDate>
+      <title>alien</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/alien/</link>
+      <pubDate>Sat, 26 Feb 2022 07:47:46 +0600</pubDate>
       
-      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/investment/</guid>
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/alien/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>metaverse real estate</title>
-      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/metaverse-real-estate/</link>
-      <pubDate>Mon, 14 Feb 2022 15:40:24 +0600</pubDate>
+      <title>nft games</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/nft-games/</link>
+      <pubDate>Sat, 26 Feb 2022 07:47:46 +0600</pubDate>
       
-      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/metaverse-real-estate/</guid>
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/nft-games/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>photography</title>
-      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/photography/</link>
-      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      <title>tokens</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/tokens/</link>
+      <pubDate>Sat, 26 Feb 2022 07:27:00 +0600</pubDate>
       
-      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/photography/</guid>
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/tokens/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>four seasone</title>
-      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/four-seasone/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <title>nft</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/nft/</link>
+      <pubDate>Sat, 26 Feb 2022 07:25:27 +0600</pubDate>
       
-      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/four-seasone/</guid>
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/nft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>newyork city</title>
-      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/newyork-city/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <title>axie</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/axie/</link>
+      <pubDate>Sat, 26 Feb 2022 05:35:50 +0600</pubDate>
       
-      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/newyork-city/</guid>
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/axie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>videography</title>
-      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/videography/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <title>sandbox</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/sandbox/</link>
+      <pubDate>Sat, 26 Feb 2022 05:15:46 +0600</pubDate>
       
-      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/videography/</guid>
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/sandbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/gaming/</link>
+      <pubDate>Sat, 26 Feb 2022 04:55:47 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nfts:</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/nfts/</link>
+      <pubDate>Sat, 26 Feb 2022 04:30:22 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/nfts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/games/</link>
+      <pubDate>Fri, 25 Feb 2022 18:55:44 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latest</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/latest/</link>
+      <pubDate>Fri, 25 Feb 2022 16:33:03 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/latest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-fungible</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/non-fungible/</link>
+      <pubDate>Fri, 25 Feb 2022 15:52:53 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/non-fungible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complete</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/complete/</link>
+      <pubDate>Fri, 25 Feb 2022 11:49:12 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/complete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>earn</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/earn/</link>
+      <pubDate>Fri, 25 Feb 2022 11:49:12 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/earn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/guide/</link>
+      <pubDate>Fri, 25 Feb 2022 11:49:12 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>income</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/income/</link>
+      <pubDate>Fri, 25 Feb 2022 11:49:12 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/income/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>passive</title>
+      <link>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/passive/</link>
+      <pubDate>Fri, 25 Feb 2022 11:49:12 +0600</pubDate>
+      
+      <guid>http://www.datafortress.cloud/website-hugo-nft-gaming/categories/passive/</guid>
       <description></description>
     </item>
     
