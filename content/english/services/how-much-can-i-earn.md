@@ -3,10 +3,16 @@ title : "How much can I earn with NFT gaming?"
 description : "Yes, it sounds too good to be true, but you are actually earning for playing games"
 icon: "fas fa-house-user"
 draft : false
-date: 2020-03-13T15:40:24+06:00
+date: 2022-03-13T15:40:24+06:00
 ---
 
 ## How much can I earn with Crypto Gaming?
+
+This article is part of our intro series. Head to the [Hands on article](/services/how-do-i-get-started/) if you want to start playing right away!
+
+1. [NFT Games 101](/services/nft-games-101/)
+2. [How much can you earn?](/services/how-much-can-i-earn/)
+3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
 
 This varies widely, depending on several factors we are exploring in another article. But let us look at an example of Axie Infinity, as it is one of the most established games right now. Of course, being an early adopter to a new game might make you a lot of money, but taking Axie as a starting point gives us a good overview of how much an average person might earn. In Axie you are breeding little Axies, which are NFTs, and players earn on average 9-13$ a day (300$/month). 
 There are other possibilities to enhance this amount, with for example being a manager, or simultaneously staking, which results in an average of 66$/day or 2000$ a month."
@@ -101,3 +107,11 @@ Now let us say you are planning to invest 100,000 USD as a manager. With 1k$ a t
 Too good to be true? Keep in mind that the NFTs, AXS and SLP tokens can be really volatile. Meaning if the worth of Axie is crashing (like it did now), you might loose your 100,000$ investment immediately. DeFi and Crypto stays a high risk investment, even if Axie has been relatively stable in the past. 
 
 And again, this is not investment advice, but rather just an informational website. Calculate your own risk or contact an investment professional before investing in crypto, or at least distribute your investments over several crypto games.
+
+---
+
+This article is part of our intro series. Head to the [Hands on article](/services/how-do-i-get-started/) if you want to start playing right away!
+
+1. [NFT Games 101](/services/nft-games-101/)
+2. [How much can you earn?](/services/how-much-can-i-earn/)
+3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**

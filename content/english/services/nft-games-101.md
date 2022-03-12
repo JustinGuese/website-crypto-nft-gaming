@@ -8,7 +8,13 @@ date: 2022-02-18T15:40:24+06:00
 
 ## What are NFT games and why are they becoming popular?
 
-Start out with this section or head over to our [blog](/blog)
+Start out with this section or head over to our [blog](/blog).
+
+This article is part of our intro series. Head to the [Hands on article](/services/how-do-i-get-started/) if you want to start playing right away!
+
+1. [NFT Games 101](/services/nft-games-101/)
+2. [How much can you earn?](/services/how-much-can-i-earn/)
+3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
 
 NFT games allow users to own and trade digital assets that are unique and have real-world value. This gives gamers a new level of ownership and control over them in-game items. NFT games are also more secure and transparent than traditional games, which helps to build trust between players and developers. In this article, we will discuss about Non-Fungible Tokens (NFTs) and why they are becoming popular in the gaming industry.
 
@@ -33,3 +39,8 @@ There has been some exciting development in the world of gaming with the launch 
 
 NFT games are becoming increasingly popular as people are looking for new and innovative ways to use their crypto. These games allow users to interact with each other and the game world in ways that weren't possible before. This is due to the use of block chain technology and NFTs. On the other hand, some people are concerned that these games could be used to manipulate the market, but overall, NFT games are proving to be a valuable and fun use of crypto. NFT games are most popular in the crypto community, but they are also starting to gain traction in the general gaming community.
 
+This article is part of our intro series. Head to the [Hands on article](/services/how-do-i-get-started/) if you want to start playing right away!
+
+1. [NFT Games 101](/services/nft-games-101/)
+2. [How much can you earn?](/services/how-much-can-i-earn/)
+3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**

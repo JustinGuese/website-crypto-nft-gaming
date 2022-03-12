@@ -3,7 +3,7 @@ title : "Getting started in Crypto Gaming (Alienworlds)"
 description : "Creating your wallet, connecting to a game, and start playing (Alienworlds)!"
 icon: "fas fa-user-graduate"
 draft : false
-date: 2020-03-12T15:40:24+06:00
+date: 2022-03-12T15:40:24+06:00
 ---
 
 # what do I need to get started with crypto games?
@@ -183,3 +183,11 @@ As soon as the time reaches zero, you will be able to mine. Once you have presse
 Have a look at your TLM balance in the game, or the inventory to check out if you got any rewards.
 
 Congratulations! You have officially started your first NFT game! Play around a bit, or head over to our [/blog](/blog) to discover further articles.
+
+---
+
+This article is part of our intro series.
+
+1. [NFT Games 101](/services/nft-games-101/)
+2. [How much can you earn?](/services/how-much-can-i-earn/)
+3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
