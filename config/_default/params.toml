@@ -1,12 +1,12 @@
 #################### default parameters ################################
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 logo_text = "NFT Gamez"
 logo_width = "160x"
 favicon = "images/favicon.png"
 # Meta data
 description = "Your partner for everything crypto game related"
 author = "DataFortress.cloud"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/logo.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Augsburg, Germany"
 mobile = "+1 (650) 382 0775"

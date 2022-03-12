@@ -7,8 +7,8 @@ banner:
     enable: true
     label: NFT games 101
     icon: fas fa-arrow-right
-    button_modal_target: "#applyLoan"
-  image: "/images/screenshot-2022-03-02-124037.png"
+    button_modal_target: "/services/how-do-i-get-started/"
+  image: "/images/defigamez-intro.png"
 services:
   enable: true
 difference_of_us:
@@ -23,12 +23,10 @@ difference_of_us:
     description: This can't be stressed often enough, but it is essential to secure your crypto wallet in order to save your NFT's and assets. 
   - title: Research the NFT game
     icon: fas fa-blender-phone
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
-      congue sed aliquam id adipiscing auue '
+    description: 'Only invest in games that you know. There are many copycats that are just copies of other games, or games that are already "old", and useless soon. Have a look around our website to get to know some of them.'
   - title: Don't spend more than you have
     icon: fas fa-money-bill-alt
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
-      congue sed aliquam id adipiscing auue '
+    description: 'As always with Crypto: Do not spend more money than you have. Crypto is still a highly volatile market, and the same applies to games'
 about_ourselves:
   enable: true
   subtitle: About Ourselves
@@ -52,40 +50,34 @@ homepage_tab:
     image: images/illustration-1.png
 testimonials:
   enable: true
-  subtitle: Top 20 NFT Games
+  subtitle: Top 20 NFT Games 2022
   title: The biggest Play to earn games right now
   description: Take a look at the top 20 play to earn games right now
   item:
-  - image: images/testimonials/01.jpg
-    name: Leslie Alexander
-    designation: Web Designer
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
-  - image: images/testimonials/02.jpg
-    name: Arlene McCoy
-    designation: Content Strategist
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
-  - image: images/testimonials/03.jpg
-    name: Marvin McKinney
-    designation: Video Game Writer
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
-  - image: images/testimonials/04.jpg
-    name: Devon Lane
-    designation: Nursing Assistant
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
-  - image: images/testimonials/05.jpg
-    name: Bessie Cooper
-    designation: Video Game Writer
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
-  - image: images/testimonials/06.jpg
-    name: Kathryn Murphy
-    designation: Film Critic
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
+  - image: images/games/sandbox.jpg
+    name: The Sandbox
+    designation: Metaverse
+    review_text: One of the biggest Metaverses right now. You can basically become everything, and earn money for it. Think of it like second life.
+  - image: images/games/axie.jpg
+    name: Axie Infinity
+    designation: DeFi Pokemon
+    review_text: Little monsters that fight each other. They can be bred for new NFTs. Think of it like Pokemon for DeFi
+  - image: images/games/godsunchained.jpg
+    name: Gods Unchained
+    designation: Card trading game
+    review_text: Did you ever play magic the gathering? It feels a little like that, with Gods unchained being a card game where you have to battle the "Gods" of other players.
+  - image: images/games/alienworlds.jpg
+    name: Alienworlds
+    designation: Mining in the space
+    review_text: You can fly around in space to mine resources and battle other players.
+  - image: images/games/sorare.jpg
+    name: Sorare
+    designation: Fantasy Soccer
+    review_text: Are you good in those football/soccer guessing games? Then turn a profit and earn money for correct match result guesses
+  - image: images/games/battleracers.jpg
+    name: Battle racers
+    designation: DeFi Mario Kart
+    review_text: Combine different car parts and weapons into your ultimate racing death machine. 
 faq:
   enable: true
   subtitle: Questions You Have

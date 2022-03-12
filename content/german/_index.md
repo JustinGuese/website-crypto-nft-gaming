@@ -1,128 +1,86 @@
 ---
-############################ Banner ##################################
 banner:
   enable: true
-  title : "Obtenga un préstamo más rápido con una forma inteligente de estar sentado en casa "
-  subtitle : "We have collected the best offers of credit institutions and banks <br> of Colombia.  It remains to choose what suits you as fast as you."
+  title: Ihr Partner für alles rund um NFT Gaming!
+  subtitle: Spielen, um zu verdienen, erklärt und wie Sie den größten Gewinn erzielen können
   button:
     enable: true
-    url: "/contact"
-    label: "Solicite Préstamo Ahora"
-    icon: "fas fa-arrow-right"
-  image: "images/banner/banner.png"
-
-
-############################ Homepage Service ##################################
+    label: NFT games 101
+    icon: fas fa-arrow-right
+    button_modal_target: "/services/how-do-i-get-started/"
+  image: "/images/defigamez-intro.png"
 services:
   enable: true
-
-############################ Difference Of Us ##################################
 difference_of_us:
   enable: true
-  subtitle: "Difference Of Us"
-  title: "Lo que nos hace <br> ¿Diferente de los demás?"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager peent esque urna. Ac eu fringilla intea dger egadv estas ut. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl 
-
-
-  sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus egestas. In habitasse sagittis, convallis ut commodo amet, odio sagittis. Maecenas massa turpis duis felis, massa. Morbi feugiat."
-
+  subtitle: Dinge, auf die Sie achten sollten
+  title: NFT-Spiele auf sichere Weise spielen und erstellen
+  description: |-
+    Wie bei allem, was mit Geld zu tun hat, sollten sowohl die Entwickler als auch die Spieler von Krypto-Spielen auf die Sicherheit achten - andernfalls kann viel Geld verloren gehen. Mit unserer Hilfe vermeiden Sie häufige Fallen.
   item:
-  - title: "Fast And Secure Process"
-    icon: "fas fa-shield-alt"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue"
-    
-  - title: "Quick Question Answers "
-    icon: "fas fa-blender-phone"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue "
-    
-  - title: "We Get You Your Cash Quick"
-    icon: "fas fa-money-bill-alt"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue "
-
-############################ About Ourselves ##################################
+  - title: Sichern Sie Ihre Wallet
+    icon: fas fa-shield-alt
+    description: Man kann es nicht oft genug betonen, aber es ist unerlässlich, Ihre Krypto-Brieftasche zu sichern, um Ihre NFTs und Vermögenswerte zu schützen. 
+  - title: Recherchieren Sie das NFT-Spiel
+    icon: fas fa-blender-phone
+    description: 'Investieren Sie nur in Spiele, die Sie kennen. Es gibt viele Nachahmer, die nur Kopien anderer Spiele sind, oder Spiele, die bereits "alt" und bald unbrauchbar sind. Schauen Sie sich auf unserer Website um, um einige von ihnen kennenzulernen.'
+  - title: Geben Sie nicht mehr aus, als Sie haben
+    icon: fas fa-money-bill-alt
+    description: 'Wie immer bei Kryptowährungen: Geben Sie nicht mehr Geld aus, als Sie haben. Krypto ist immer noch ein sehr volatiler Markt, und das Gleiche gilt für Spiele'
 about_ourselves:
   enable: true
-  subtitle: "About Ourselves"
-  title: "Financiamiento rápido y pago flexible"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl  
-
-
-  sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus"
-  image: "images/about-us.webp"
-
-
-############################ Homepage Tab ##################################
+  subtitle: Über uns selbst
+  title: Ihr Experte rund um das Thema NFT-Spiele
+  description: |-
+    Spiele, bei denen man Geld verdienen kann, werden immer beliebter. Dies eröffnet sowohl den Spielern als auch den Spieleherstellern neue Möglichkeiten, auf noch nie dagewesene Weise Geld zu verdienen. Haben Sie vor, Ihre eigenen Spiele zu entwickeln, oder spielen Sie sie einfach nur? Kontaktieren Sie uns und erfahren Sie mehr.
+  image: images/about-us.webp
 homepage_tab:
   enable: true
-  subtitle: "Difference Of Us"
-  title: "Conozca los conceptos básicos Precios y pagos sencillos"
-
+  subtitle: Die häufigsten Fragen
+  title: Lernen Sie die Grundlagen von play 2 earn games kennen
   tablist:
-  - title: "How Much Can I Recive?"
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo
-    
-
-    turpis vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus eget. Neque, vel "
-    image: "images/payment-info.webp"
-
-  - title: "How Much Does It Costs?"
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo
-    
-    
-    turpis vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus eget. Neque, vel "
-    image: "images/illustration-2.png"
-
-  - title: "How Do I Repay?"
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo
-    
-    
-    turpis vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus eget. Neque, vel "
-    image: "images/illustration-1.png"
-
-
-############################ testimonials ##################################
+  - title: Wie viel kann ich verdienen?
+    description: "Das ist sehr unterschiedlich und hängt von verschiedenen Faktoren ab, die wir in einem anderen Artikel erkunden werden. Aber lassen Sie uns das Beispiel von Axie Infinity betrachten, da es derzeit eines der etabliertesten Spiele ist. Natürlich können Sie als Early Adopter eines neuen Spiels eine Menge Geld verdienen, aber wenn wir Axie als Ausgangspunkt nehmen, erhalten wir einen guten Überblick darüber, wie viel eine durchschnittliche Person verdienen kann. In Axie züchten Sie kleine Axies, bei denen es sich um NFTs handelt, und die Spieler verdienen im Durchschnitt 9-13$ pro Tag (300$/Monat). Es gibt weitere Möglichkeiten, diesen Betrag zu erhöhen, z.B. als Manager oder durch gleichzeitigen Einsatz, was zu einem durchschnittlichen Verdienst von 66$/Tag oder 2000$ im Monat führt."
+    image: images/payment-info.webp
+  - title: Wie viel kostet es?
+    description: "Dies ist im Moment eine der größten Herausforderungen. Da die Popularität von NFT-Spielen zunimmt und einige Spiele immer beliebter werden, kosten selbst einfache Einstiegs-NFTs über hundert Dollar. Man muss jedoch bedenken, dass sie auch nach dem Kauf noch verkauft werden können, d.h. da die meisten Spiele wertbeständig sind oder sogar im Wert steigen, werden Sie Ihre Investition nach dem Spielen wahrscheinlich zurückbekommen. Der schwierige Kompromiss besteht darin, nach neuen Spielen Ausschau zu halten, bei denen NFTs noch relativ billig sind, aber auch kein Spiel zu wählen, das in den nächsten Tagen im Wert abstürzt. Betrachten wir Axie Infinity wieder als Beispiel, können Sie damit rechnen, rund 300$ für ein Starterset zu bezahlen, was relativ sicher ist, da Axie recht etabliert ist, aber dafür einen höheren Einstiegspreis hat."
+    image: images/illustration-2.png
+  - title: Was brauche ich?
+    description: "Wenn Sie bereits Kryptowährungen besitzen, ist der Einstieg recht einfach. Oftmals können Sie einfach ein NFT mit etablierten Münzen wie BNB, ETH oder BTC kaufen und sofort mit dem Spielen beginnen. Wenn Sie noch keine Kryptowährungen besitzen, müssen Sie Ihre lokale FOREX-Währung (Euro, Dollar, ...) über eine Plattform wie Binance in Kryptowährungen umtauschen und diese dann auf Ihr Wallet übertragen. Werfen Sie einen Blick auf einige unserer Artikel, in denen der Vorgang erklärt wird."
+    image: images/illustration-1.png
 testimonials:
   enable: true
-  subtitle: "Our Service Holders"
-  title: "Trusted By 1.2K+ Peoples"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing. egestas cursus pellentesque dignissim dui, congue. Vel etiam ut"
-
+  subtitle: Die 20 besten NFT-Spiele 2022
+  title: Die größten Play to earn Spiele im Moment
+  description: Werfen Sie einen Blick auf die Top 20 der Spiele, womit Sie jetzt verdienen können
   item:
-  - image: "images/testimonials/01.jpg"
-    name: "Leslie Alexander"
-    designation: "Web Designer"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/02.jpg"
-    name: "Arlene McCoy"
-    designation: "Content Strategist"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/03.jpg"
-    name: "Marvin McKinney"
-    designation: "Video Game Writer"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/04.jpg"
-    name: "Devon Lane"
-    designation: "Nursing Assistant"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/05.jpg"
-    name: "Bessie Cooper"
-    designation: "Video Game Writer"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/06.jpg"
-    name: "Kathryn Murphy"
-    designation: "Film Critic"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-
-############################ faq ##################################
+  - image: images/games/sandbox.jpg
+    name: The Sandbox
+    designation: Metaverse
+    review_text: Eine der größten Metaversen im Moment. Sie können im Grunde alles werden und dafür Geld verdienen. Betrachten Sie es wie Second Life.
+  - image: images/games/axie.jpg
+    name: Axie Infinity
+    designation: DeFi Pokemon
+    review_text: Kleine Monster, die sich gegenseitig bekämpfen. Sie können für neue NFTs gezüchtet werden. Betrachten Sie es wie Pokemon für DeFi
+  - image: images/games/godsunchained.jpg
+    name: Gods Unchained
+    designation: Kartenspiel
+    review_text: Haben Sie jemals Magic the Gathering gespielt? Es fühlt sich ein wenig so an, wobei Gods unchained ein Kartenspiel ist, bei dem Sie gegen die "Götter" anderer Spieler kämpfen müssen.
+  - image: images/games/alienworlds.jpg
+    name: Alienworlds
+    designation: Bergbau im Weltall
+    review_text: Sie können im Weltraum herumfliegen, um Ressourcen abzubauen und andere Spieler zu bekämpfen.
+  - image: images/games/sorare.jpg
+    name: Sorare
+    designation: DeFi Fußballspiel-Wette
+    review_text: Sind Sie gut in diesen Fußball-Tippspielen? Dann machen Sie Gewinn und verdienen Sie Geld für das richtige Erraten von Spielergebnissen
+  - image: images/games/battleracers.jpg
+    name: Battle racers
+    designation: DeFi Mario Kart
+    review_text: Kombinieren Sie verschiedene Autoteile und Waffen zu Ihrer ultimativen Renn-Todesmaschine. 
 faq:
   enable: true
-  subtitle: "Questions You Have"
-  title: "Frequently Asked Questions"
+  subtitle: Fragen, die Sie haben
+  title: Häufig gestellte Fragen
 
 ---
