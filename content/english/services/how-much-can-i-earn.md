@@ -3,7 +3,7 @@ title : "How much can I earn with NFT gaming?"
 description : "Yes, it sounds too good to be true, but you are actually earning for playing games"
 icon: "fas fa-house-user"
 draft : false
-date: 2022-03-13T15:40:24+06:00
+date: 2022-03-12T15:40:24+06:00
 ---
 
 ## How much can I earn with Crypto Gaming?
