@@ -198,12 +198,13 @@
     </item>
     
     <item>
-      <title>Contacta con nosotras</title>
-      <link>https://defigamez.com/de/contact/</link>
+      <title>AGB</title>
+      <link>https://defigamez.com/de/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://defigamez.com/de/contact/</guid>
-      <description></description>
+      <guid>https://defigamez.com/de/legal/</guid>
+      <description>Bedingungen und Konditionen (AGB) Willkommen bei defigamez.com!
+Diese Allgemeinen Geschäftsbedingungen beschreiben die Regeln und Vorschriften für die Nutzung der Website von DeFiGamez.</description>
     </item>
     
     <item>
@@ -216,6 +217,15 @@
     </item>
     
     <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://defigamez.com/de/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://defigamez.com/de/privacy-policy/</guid>
+      <description>Datenschutzerklärung Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</description>
+    </item>
+    
+    <item>
       <title>FAQ&#39;s</title>
       <link>https://defigamez.com/de/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -225,29 +235,11 @@
     </item>
     
     <item>
-      <title>Legal y cumplimiento</title>
-      <link>https://defigamez.com/de/legal/</link>
+      <title>Kontaktiere uns</title>
+      <link>https://defigamez.com/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://defigamez.com/de/legal/</guid>
-      <description>This section includes documents covering the legal terms that apply to various aspects of our operation and services.</description>
-    </item>
-    
-    <item>
-      <title>Privacy &amp; Policy</title>
-      <link>https://defigamez.com/de/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://defigamez.com/de/privacy-policy/</guid>
-      <description>Application Processing You are most welcome to share our themes with your clients/friends, but please share our license with them so that they can be aware of our copyrights.</description>
-    </item>
-    
-    <item>
-      <title>Sobre nosotros</title>
-      <link>https://defigamez.com/de/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://defigamez.com/de/about/</guid>
+      <guid>https://defigamez.com/de/contact/</guid>
       <description></description>
     </item>
     
@@ -258,6 +250,15 @@
       
       <guid>https://defigamez.com/de/terms/</guid>
       <description>The Use of the Information  You cannot remove the copyright link to Gethugothemes without buying the license.</description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://defigamez.com/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://defigamez.com/de/about/</guid>
+      <description></description>
     </item>
     
   </channel>

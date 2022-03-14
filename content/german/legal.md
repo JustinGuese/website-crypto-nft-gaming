@@ -1,11 +1,11 @@
 ---
-title: "Legal y cumplimiento"
+title: "AGB"
 description: "this is meta description"
 draft: false
 ---
 
 
-# Bedingungen und Konditionen
+# Bedingungen und Konditionen (AGB)
 
 Willkommen bei defigamez.com!
 

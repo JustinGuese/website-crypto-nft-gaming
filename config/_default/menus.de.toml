@@ -47,11 +47,11 @@ hasChildren = true
   url = "legal/"
   weight = 3
 
-  [[main]]
-  parent = "Legal"
-  name = "AGB"
-  url = "terms/"
-  weight = 4
+  # [[main]]
+  # parent = "Legal"
+  # name = "AGB"
+  # url = "terms/"
+  # weight = 4
 
   [[main]]
   parent = "Legal"

@@ -907,16 +907,16 @@
                 href="https://defigamez.com/de/services/nft-games-101/"
                 />
   </url><url>
-    <loc>https://defigamez.com/de/contact/</loc>
+    <loc>https://defigamez.com/de/legal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://defigamez.com/contact/"
+                href="https://defigamez.com/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://defigamez.com/de/contact/"
+                href="https://defigamez.com/de/legal/"
                 />
   </url><url>
     <loc>https://defigamez.com/de/how-it-works/</loc>
@@ -931,30 +931,6 @@
                 href="https://defigamez.com/de/how-it-works/"
                 />
   </url><url>
-    <loc>https://defigamez.com/de/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://defigamez.com/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://defigamez.com/de/faq/"
-                />
-  </url><url>
-    <loc>https://defigamez.com/de/legal/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://defigamez.com/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://defigamez.com/de/legal/"
-                />
-  </url><url>
     <loc>https://defigamez.com/de/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -967,16 +943,28 @@
                 href="https://defigamez.com/de/privacy-policy/"
                 />
   </url><url>
-    <loc>https://defigamez.com/de/about/</loc>
+    <loc>https://defigamez.com/de/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://defigamez.com/about/"
+                href="https://defigamez.com/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://defigamez.com/de/about/"
+                href="https://defigamez.com/de/faq/"
+                />
+  </url><url>
+    <loc>https://defigamez.com/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://defigamez.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://defigamez.com/de/contact/"
                 />
   </url><url>
     <loc>https://defigamez.com/de/terms/</loc>
@@ -989,6 +977,18 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://defigamez.com/de/terms/"
+                />
+  </url><url>
+    <loc>https://defigamez.com/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://defigamez.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://defigamez.com/de/about/"
                 />
   </url>
 </urlset>
