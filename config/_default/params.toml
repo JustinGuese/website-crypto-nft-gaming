@@ -9,10 +9,10 @@ author = "DataFortress.cloud"
 image = "images/logo.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Augsburg, Germany"
-mobile = "+1 (650) 382 0775"
+mobile = "+49 152 24556134"
 email = "defigamez@datafortress.cloud"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mjvlokdr" # contact form works with https://formspree.io
 # top hedaer
 top_hedaer = false
 # custom script on header
@@ -43,8 +43,8 @@ section = "services"
 enable = true
 description = "Stay up to date with the latest crypto news"
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://cloud.us19.list-manage.com/subscribe/post?u=29b9af4020a7ab7d1e6a76d72&amp;id=3622b2a9a6" # replace this url with yours
+mailchimp_form_name = "b_29b9af4020a7ab7d1e6a76d72_3622b2a9a6" # replace this code with yours
 
 # cookies
 [cookies]
