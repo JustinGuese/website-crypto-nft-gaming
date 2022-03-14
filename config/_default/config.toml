@@ -9,7 +9,7 @@ summaryLength = "10"
 # google analytics
 googleAnalytics = "G-9FLBKQMEG0" # example : UA-123-45
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+disqusShortname = "defigamez-com" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
