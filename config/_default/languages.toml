@@ -15,6 +15,6 @@ languageName = "De"
 languageCode = "de-de"
 contentDir = "content/german"
 weight = 2
-home = "Accueil"
+home = "Home"
 # copyright
 copyright = "Developed By [DataFortress.cloud](https://www.datafortress.cloud/)"

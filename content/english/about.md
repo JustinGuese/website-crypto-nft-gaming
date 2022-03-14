@@ -1,51 +1,48 @@
 ---
 title : "About Us"
-description : "this is meta description"
+description : "Who is behind NFTgamez.com?"
 layout : "about"
 draft : false
 
 about_us_:
-  title: "Business Loans <br> For Daily Expenses"
-  subtitle: "About Wallet"
+  title: "Your expert for Crypto Gaming"
+  subtitle: "About DeFi Gamez"
   image: "images/about/about-11.jpg"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  
-
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content: "DeFi Gamez has been created in order to provide a platform that informs people about DeFi and Crypto Games. I am loving the combination of playing and actually earning myself, and want to help people getting onboard with this new technology."
 
   
 who_we_are:
   title: "Who We Are?"
-  lead: "Insight loan advisors is completely independent loan advising service and our directory of lenders gives you all the information lorem ipsums sitamets."
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv peent esque urna. Ac eu fringilla intea dger egadv estas ut. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl"
+  lead: "DeFiGamez.com is a subsidary of the company datafortress.cloud."
+  content: "DataFortress.cloud is a company providing Cloud and Data solutions."
   
 what_we_offer:
   title: "What We Offer?"
-  lead: "Our loan sanction is one of the quicke with eas documentation and doorstep lorem ipsum serviceullam dolor sitisi."
+  lead: "Consultation and information around the DeFi Topic."
   content: "  
   
-  * Habit building in essential steps choose habit
+  * Help with setting up your crypto wallets
 
-  * Get an overview of Habit Calendars Latest Posts
+  * Information about Games, as well as best strategies
 
-  * Start building habit with Habitify on platform
+  * General information around the crypto topic
   
   "
 
 
 ############# Feature ####################
 feature:
-- name: "Quick Decision"
+- name: "Information"
   icon: "fas fa-mouse-pointer"
-  content: "Begin the process when it is convenient for you"
+  content: ""
   
-- name: "Submit Your Info"
+- name: "Consultation"
   icon: "fas fa-file-alt"
-  content: "Begin the process when it is convenient for you"
+  content: ""
   
-- name: "Funds To You"
+- name: "Guides"
   icon: "fas fa-briefcase"
-  content: "Begin the process when it is convenient for you"
+  content: ""
   
 
 ############# Core Value ####################

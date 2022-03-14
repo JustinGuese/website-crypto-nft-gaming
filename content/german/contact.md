@@ -1,24 +1,25 @@
 ---
-title : "Contacta con nosotras"
-description : "this is meta description"
+title : "Kontaktiere uns"
+description : "Wenn Sie Hilfe brauchen, sind wir für Sie da"
 layout : "contact"
 draft : false
 
 contact:
-  subtitle: "Contacta con nosotras"
-  title: "vamos a conectarnos"
-  description: "Lorem ipsum dolor sit, consectetur adipiscing . egestas cursus pellentesque dignissim dui, congue etiam"
+  subtitle: "Kontaktiere uns"
+  title: "Lassen Sie uns Kontakt aufnehmen"
+  description: "Wenn Sie nicht weiterkommen, können Sie sich gerne an uns wenden."
 
 contactInfo:
-  - title: "¿Todavía tienes preguntas?"
-    content: "Call Us We Will Be Happy To Help <br>
-    [+3301563965](tel:+3301563965) <br>
-    Monday - Friday <br>
-    9AM TO 8PM Eastern Time"
+  - title: "Still Have Questions?"
+    content: "Shoot us an email <br>
+    [defigamez@datafortress.cloud](mailto:defigamez@datafortress.cloud)<br>
+    [+4915224556134](tel:+4915224556134) <br>
+    Montag - Freitag <br>
+    9 bis 20 Uhr UTC"
 
-  - title: "Canada Office"
-    content: "231 Ross Street. <br> K7A 1C2. <br> Smiths Falls"
+  - title: "DataFortress.cloud Office"
+    content: "Georgenstraße 13, 86152 Augsburg, Germany"
 
-  - title: "UK Office"
-    content: "57 Folkestone Road. <br> AB54 5XQ, <br> Winston"
+  # - title: "UK Office"
+  #   content: "57 Folkestone Road. <br> AB54 5XQ, <br> Winston"
 ---
