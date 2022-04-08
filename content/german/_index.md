@@ -7,7 +7,7 @@ banner:
     enable: true
     label: NFT games 101
     icon: fas fa-arrow-right
-    button_modal_target: "/services/how-do-i-get-started/"
+    button_modal_target: "/services/"
   image: "/images/defigamez-intro.png"
 services:
   enable: true
