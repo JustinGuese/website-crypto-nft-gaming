@@ -1,7 +1,7 @@
 ---
 title : "Getting started in Crypto Gaming (Alienworlds)"
 description : "Creating your wallet, connecting to a game, and start playing (Alienworlds)!"
-icon: "fas fa-user-graduate"
+icon: "fas fa-circle-info"
 draft : false
 date: 2022-03-12T15:40:24+06:00
 ---

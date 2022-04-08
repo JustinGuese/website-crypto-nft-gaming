@@ -1,7 +1,7 @@
 ---
 title : "Inform yourself"
 description : "First get yourself up to date around the area of DeFi Games."
-icon: "fas fa-user"
+icon: "fas fa-rocket"
 draft : false
 date: 2022-02-18T15:40:24+06:00
 ---

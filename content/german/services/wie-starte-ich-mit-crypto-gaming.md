@@ -1,7 +1,7 @@
 ---
 title : "Erste Schritte im Krypto-Gaming (Alienworlds)"
 description : "Erstellen Sie Ihre Brieftasche, verbinden Sie sich mit einem Spiel und beginnen Sie zu spielen (Alienworlds)!"
-icon: "fas fa-user-graduate"
+icon: "fas fa-circle-info"
 draft : false
 date: 2022-03-12T15:40:24+06:00
 ---

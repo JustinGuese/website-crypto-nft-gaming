@@ -1,7 +1,7 @@
 ---
 title : "How much can I earn with NFT gaming?"
 description : "Yes, it sounds too good to be true, but you are actually earning for playing games"
-icon: "fas fa-house-user"
+icon: "fas fa-money-bill-1-wave"
 draft : false
 date: 2022-03-12T15:40:24+06:00
 ---

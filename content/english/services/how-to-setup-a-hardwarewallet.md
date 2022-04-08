@@ -1,7 +1,7 @@
 ---
 title : "How to set up a hardware (crypto) wallet"
 description : "Why hardware wallets are important and how to set them up when dealing with crypto assets and gaming."
-icon: "fas fa-lock-keyhole"
+icon: "fas fa-user-lock"
 draft : false
 date: 2022-03-12T15:40:24+06:00
 ---

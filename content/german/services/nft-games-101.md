@@ -1,7 +1,7 @@
 ---
 title : "Informieren Sie sich"
 description : "Informieren Sie sich zunächst über den Bereich der DeFi Games."
-icon: "fas fa-user"
+icon: "fas fa-rocket"
 draft : false
 date: 2022-02-18T15:40:24+06:00
 ---

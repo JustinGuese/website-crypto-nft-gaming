@@ -1,7 +1,7 @@
 ---
 title : "So richten Sie eine Hardware-(Krypto-)Geldbörse ein"
 description : "Warum Hardware-Wallets wichtig sind und wie man sie im Umgang mit Kryptowährungen und Spielen einrichtet."
-icon: "fas fa-lock-keyhole"
+icon: "fas fa-user-lock"
 draft : false
 date: 2022-03-12T15:40:24+06:00
 ---
