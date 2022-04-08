@@ -4,7 +4,7 @@ banner:
   title: Ihr Partner für alles rund um NFT Gaming!
   subtitle: Spielen, um zu verdienen, erklärt und wie Sie den größten Gewinn erzielen können
   button:
-    enable: true
+    enable: false
     label: NFT games 101
     icon: fas fa-arrow-right
     button_modal_target: "https://defigamez.com/services/"

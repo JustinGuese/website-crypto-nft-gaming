@@ -4,7 +4,7 @@ banner:
   title: Your partner for everything around NFT Gaming!
   subtitle: Play to earn games explained, and how you can make the biggest profit
   button:
-    enable: true
+    enable: false
     label: NFT games 101
     icon: fas fa-arrow-right
     button_modal_target: "https://defigamez.com/services/"
