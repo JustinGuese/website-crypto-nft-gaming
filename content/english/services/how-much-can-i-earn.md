@@ -13,6 +13,7 @@ This article is part of our intro series. Head to the [Hands on article](/servic
 1. [NFT Games 101](/services/nft-games-101/)
 2. [How much can you earn?](/services/how-much-can-i-earn/)
 3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
+4. [Optional: Using a hardware wallet for increased security](/services/how-to-setup-a-hardwarewallet)
 
 This varies widely, depending on several factors we are exploring in another article. But let us look at an example of Axie Infinity, as it is one of the most established games right now. Of course, being an early adopter to a new game might make you a lot of money, but taking Axie as a starting point gives us a good overview of how much an average person might earn. In Axie you are breeding little Axies, which are NFTs, and players earn on average 9-13$ a day (300$/month). 
 There are other possibilities to enhance this amount, with for example being a manager, or simultaneously staking, which results in an average of 66$/day or 2000$ a month."
@@ -115,3 +116,4 @@ This article is part of our intro series. Head to the [Hands on article](/servic
 1. [NFT Games 101](/services/nft-games-101/)
 2. [How much can you earn?](/services/how-much-can-i-earn/)
 3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
+4. [Optional: Using a hardware wallet for increased security](/services/how-to-setup-a-hardwarewallet)

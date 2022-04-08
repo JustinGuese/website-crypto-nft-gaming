@@ -13,6 +13,7 @@ Dieser Artikel ist Teil unserer Einführungsserie. Gehen Sie zum [Hands on Artik
 1. [NFT Spiele 101](/services/nft-games-101/)
 2. [Wie viel können Sie verdienen?](/services/wie-viel-kann-ich-verdienen/)
 3. **[Hands on: Erste Schritte mit Alienworlds](/services/wie-starte-ich-mit-crypto-gaming/)**
+4. [Optional: Das Nutzen einer Hardware Wallet für mehr Sicherheit](/services/eine-hardware-wallet-fuer-mehr-sicherheit)
 
 NFT-Spiele ermöglichen es den Nutzern, digitale Gegenstände zu besitzen und zu handeln, die einzigartig sind und einen realen Wert haben. Dies gibt den Spielern ein neues Maß an Eigentum und Kontrolle über ihre Gegenstände im Spiel. NFT-Spiele sind außerdem sicherer und transparenter als herkömmliche Spiele, was das Vertrauen zwischen Spielern und Entwicklern stärkt. In diesem Artikel werden wir über nicht-fungible Token (NFTs) sprechen und darüber, warum sie in der Spielebranche immer beliebter werden.
 
@@ -44,3 +45,4 @@ Dieser Artikel ist Teil unserer Einführungsserie. Gehen Sie zum [Hands on Artik
 1. [NFT Spiele 101](/services/nft-games-101/)
 2. [Wie viel können Sie verdienen?](/services/wie-viel-kann-ich-verdienen/)
 3. **[Hands on: Erste Schritte mit Alienworlds](/services/wie-starte-ich-mit-crypto-gaming/)**
+4. [Optional: Das Nutzen einer Hardware Wallet für mehr Sicherheit](/services/eine-hardware-wallet-fuer-mehr-sicherheit)

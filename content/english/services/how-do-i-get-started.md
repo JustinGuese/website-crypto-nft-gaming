@@ -191,3 +191,4 @@ This article is part of our intro series.
 1. [NFT Games 101](/services/nft-games-101/)
 2. [How much can you earn?](/services/how-much-can-i-earn/)
 3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
+4. [Optional: Using a hardware wallet for increased security](/services/how-to-setup-a-hardwarewallet)

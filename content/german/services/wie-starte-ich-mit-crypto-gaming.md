@@ -191,3 +191,4 @@ Dieser Artikel ist Teil unserer Einführungsserie. Gehen Sie zum [Hands on Artik
 1. [NFT Spiele 101](/services/nft-games-101/)
 2. [Wie viel können Sie verdienen?](/services/wie-viel-kann-ich-verdienen/)
 3. **[Hands on: Erste Schritte mit Alienworlds](/services/wie-starte-ich-mit-crypto-gaming/)**
+4. [Optional: Das Nutzen einer Hardware Wallet für mehr Sicherheit](/services/eine-hardware-wallet-fuer-mehr-sicherheit)

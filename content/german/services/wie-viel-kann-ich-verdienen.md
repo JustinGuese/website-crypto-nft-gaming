@@ -13,6 +13,7 @@ Dieser Artikel ist Teil unserer Einführungsserie. Gehen Sie zum [Hands on artic
 1. [NFT Spiele 101](/services/nft-games-101/)
 2. [Wie viel können Sie verdienen?](/services/wie-viel-kann-ich-verdienen/)
 3. **[Hands on: Erste Schritte mit Alienworlds](/services/wie-starte-ich-mit-crypto-gaming/)**
+4. [Optional: Das Nutzen einer Hardware Wallet für mehr Sicherheit](/services/eine-hardware-wallet-fuer-mehr-sicherheit)
 
 Dies ist sehr unterschiedlich und hängt von verschiedenen Faktoren ab, die wir in einem anderen Artikel untersuchen werden. Aber lassen Sie uns das Beispiel von Axie Infinity betrachten, denn es ist derzeit eines der am meisten etablierten Spiele. Natürlich können Sie als Early Adopter eines neuen Spiels eine Menge Geld verdienen, aber wenn wir Axie als Ausgangspunkt nehmen, erhalten wir einen guten Überblick darüber, wie viel eine durchschnittliche Person verdienen könnte. In Axie züchten Sie kleine Axies, bei denen es sich um NFTs handelt, und die Spieler verdienen im Durchschnitt 9-13$ pro Tag (300$/Monat). 
 Es gibt noch weitere Möglichkeiten, diesen Betrag zu erhöhen, z.B. als Manager oder durch gleichzeitigen Einsatz, was zu einem durchschnittlichen Verdienst von 66$/Tag oder 2000$ im Monat führt."
@@ -115,3 +116,4 @@ Dieser Artikel ist Teil unserer Einführungsserie. Gehen Sie zum [Hands on Artik
 1. [NFT Spiele 101](/services/nft-games-101/)
 2. [Wie viel können Sie verdienen?](/services/wie-viel-kann-ich-verdienen/)
 3. **[Hands on: Erste Schritte mit Alienworlds](/services/wie-starte-ich-mit-crypto-gaming/)**
+4. [Optional: Das Nutzen einer Hardware Wallet für mehr Sicherheit](/services/eine-hardware-wallet-fuer-mehr-sicherheit)

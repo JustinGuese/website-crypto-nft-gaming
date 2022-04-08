@@ -15,6 +15,7 @@ This article is part of our intro series. Head to the [Hands on article](/servic
 1. [NFT Games 101](/services/nft-games-101/)
 2. [How much can you earn?](/services/how-much-can-i-earn/)
 3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
+4. [Optional: Using a hardware wallet for increased security](/services/how-to-setup-a-hardwarewallet)
 
 NFT games allow users to own and trade digital assets that are unique and have real-world value. This gives gamers a new level of ownership and control over them in-game items. NFT games are also more secure and transparent than traditional games, which helps to build trust between players and developers. In this article, we will discuss about Non-Fungible Tokens (NFTs) and why they are becoming popular in the gaming industry.
 
@@ -44,3 +45,4 @@ This article is part of our intro series. Head to the [Hands on article](/servic
 1. [NFT Games 101](/services/nft-games-101/)
 2. [How much can you earn?](/services/how-much-can-i-earn/)
 3. **[Hands on: Getting started with Alienworlds](/services/how-do-i-get-started/)**
+4. [Optional: Using a hardware wallet for increased security](/services/how-to-setup-a-hardwarewallet)
